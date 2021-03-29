@@ -1,141 +1,98 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://dnv32.github.io/bookshelf/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
     <loc>http://dnv32.github.io/visual/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
     <loc>http://dnv32.github.io/sound/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
     <loc>http://dnv32.github.io/ee/</loc>
-  </url>
-  
-  <url>
-    <loc>http://dnv32.github.io/years/2020/</loc>
-    <lastmod>2020-12-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dnv32.github.io/</loc>
-    <lastmod>2020-12-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dnv32.github.io/2020/12/moscow-russia/</loc>
-    <lastmod>2020-12-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dnv32.github.io/trips/</loc>
-    <lastmod>2020-12-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dnv32.github.io/years/</loc>
-    <lastmod>2020-12-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dnv32.github.io/2020/12/tehran-iran/</loc>
-    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dnv32.github.io/2020/11/frasier-colorado/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dnv32.github.io/posts/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
     <loc>http://dnv32.github.io/categories/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dnv32.github.io/categories/electronics/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dnv32.github.io/categories/mechanics/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dnv32.github.io/tags/professional/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dnv32.github.io/tags/published/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dnv32.github.io/tags/research/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dnv32.github.io/tags/hobby/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dnv32.github.io/2021/03/red-oak-ladder-bookshelf/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://dnv32.github.io/tags/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dnv32.github.io/categories/woodwork/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dnv32.github.io/years/2020/</loc>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
+    <loc>http://dnv32.github.io/2020/12/moscow-russia/</loc>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
+    <loc>http://dnv32.github.io/years/</loc>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
+    <loc>http://dnv32.github.io/2020/12/tehran-iran/</loc>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
+    <loc>http://dnv32.github.io/2020/11/frasier-colorado/</loc>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
+    <loc>http://dnv32.github.io/categories/electronics/</loc>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
+    <loc>http://dnv32.github.io/categories/mechanics/</loc>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
+    <loc>http://dnv32.github.io/tags/professional/</loc>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
+    <loc>http://dnv32.github.io/tags/published/</loc>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
+    <loc>http://dnv32.github.io/tags/research/</loc>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
     <loc>http://dnv32.github.io/2020/10/our-lightweight-eyewear-work-is-summarized-in-a-paper-and-available-through-uist-2020-archive/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
     <loc>http://dnv32.github.io/categories/wearables/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
     <loc>http://dnv32.github.io/2020/09/south-lake-tahoe-california/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
     <loc>http://dnv32.github.io/2020/09/multiple-input-multiple-output-switch-aka-mimosa-went-open-source/</loc>
-    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
     <loc>http://dnv32.github.io/2020/08/mammoth-lakes-california/</loc>
-    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
     <loc>http://dnv32.github.io/years/2019/</loc>
-    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
     <loc>http://dnv32.github.io/2019/08/black-rock-city-nevada/</loc>
-    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
     <loc>http://dnv32.github.io/years/2017/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
     <loc>http://dnv32.github.io/2017/04/alaska/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
+    <loc>http://dnv32.github.io/posts/</loc>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
+    <loc>http://dnv32.github.io/</loc>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
+  </url><url>
+    <loc>http://dnv32.github.io/trips/</loc>
+    <lastmod>2020-12-29T00:09:35-08:00</lastmod>
   </url>
-  
 </urlset>
